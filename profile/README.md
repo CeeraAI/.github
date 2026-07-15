@@ -1,5 +1,7 @@
 🚀 Ceera AI
 
+We are about to launch soon
+
 AI-powered Technical Support Platform
 
 Built by ex-Microsoft engineers.
